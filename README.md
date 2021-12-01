@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Girish v</h1>
 <h3 align="center">Full-stack web developer</h3>
+![](https://tenor.com/view/code-coding-programming-computer-science-programming-language-gif-16596559)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=girishv694&label=Profile%20views&color=0e75b6&style=flat" alt="girishv694" /> </p>
 
