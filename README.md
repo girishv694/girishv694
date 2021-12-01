@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Girish v</h1>
-<h3 align="center">Full-stack web developer</h3>
+<h3 align="center">Full-stack web developer </h3>
 
-![myfile](https://user-images.githubusercontent.com/52455330/139071980-91302a8a-37b1-4196-803e-f91b1de2ee5b.gif)
+
+
+<div align="center"><img src = "https://media0.giphy.com/media/6HsjDOBPwY1eIS6kE0/giphy.gif?cid=ecf05e47t68vpe2rp6ygmtwf5ovef8lfc3ga2gi0bvp4q0pb&rid=giphy.gif&ct=g"></div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=girishv694&label=Profile%20views&color=0e75b6&style=flat" alt="girishv694" /> </p>
 
